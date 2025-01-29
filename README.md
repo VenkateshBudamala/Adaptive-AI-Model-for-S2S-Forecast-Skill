@@ -1,7 +1,3 @@
-Here is the updated and more concise README, with the **Performance Metrics** section removed, focusing on essential setup and usage instructions:
-
----
-
 # **Enhancing S2S Predictive Skill of Indian Heatwave Warnings using Adaptive AI**
 
 ## **Overview**
